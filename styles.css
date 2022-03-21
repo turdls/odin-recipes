@@ -1,0 +1,38 @@
+.mainpagetitle {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#recipelist {
+    text-align: center;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recipe-title {
+    color:blueviolet;
+}
+
+/* testing */
+
+.cookieimg {
+    width: 510px;
+    height: 510px;
+    float: right;
+}
+
+.cookietext {
+    text-align: left;
+    font-size: 15px;
+    background-color: whitesmoke;
+    height: 510px;
+}
+
+#cookierecipe {
+    text-align: center;
+    color: azure;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: 1px black;
+}
