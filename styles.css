@@ -14,25 +14,31 @@
     color:blueviolet;
 }
 
-/* testing */
+/* CSS FOR COOKIE PAGE*/
 
 .cookieimg {
-    width: 510px;
-    height: 510px;
+    width: 535px;
+    height: 535px;
     float: right;
 }
 
 .cookietext {
     text-align: left;
     font-size: 15px;
-    background-color: whitesmoke;
-    height: 510px;
+    background-color: rgba(240, 218, 233, 0.993);
+    height: 535px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #cookierecipe {
     text-align: center;
-    color: azure;
+    color:white;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     -webkit-text-stroke: 1px black;
 }
+
+div h1 {
+    text-align: center;
+}
+/* END CSS FOR COOKIE PAGE */
