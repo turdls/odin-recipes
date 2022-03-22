@@ -85,3 +85,22 @@ div h1 {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* CURRY PAGE END */
+
+/* SPAMMASUBI START */
+
+#spamimg {
+    float: right;
+    width: auto;
+    height: 100%;
+    opacity: 0.9;
+}
+
+div.transbox {
+    
+    border: 1px solid black;
+    padding: 47px;
+    background-color: white;
+   
+}
